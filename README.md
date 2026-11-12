@@ -9,10 +9,12 @@ Desarrollador full-stack en Trujillo, Perú. Me muevo entre el código y el hard
 Hoy trabajo en **Yawi** y **CorAll D&R**.
 
 ```txt
-web      TypeScript · React · Next.js · NestJS · Astro
-backend  Go · Node · SQL Server · MQTT
-móvil    Flutter · Dart
-hardware ESP32 · C · KiCad · RF
+frontend  React · Vite · Ant Design · Zustand · TanStack Query · Astro · Angular
+backend   Bun · Elysia · Node · Fastify · Go · Spring Boot
+datos     PostgreSQL · Drizzle ORM · SQL Server · Valkey · BullMQ · MQTT
+móvil     Flutter · Expo / React Native · Tauri
+infra     Docker · Dokploy · Turborepo · AWS · Firebase · Sentry
+calidad   Playwright · Vitest · Biome
 ```
 
 ### Proyectos destacados
